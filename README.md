@@ -7,9 +7,9 @@ Note2. Your input LAMMPS data should start from "Atom" Section, shown below
 
 Example Input file shown below as well as provided in the main directory of this tool
 
-1 1 3 0.000000 8.051000 -4.466000 -3.810000 # CS 
-2 1 9 0.000000 7.372000 -4.735000 -3.027000 # HS 
-3 1 9 0.000000 7.548000 -4.524000 -4.753000 # HS 
+1 1 3 0.000000 8.051000 -4.466000 -3.810000 # CS \\
+2 1 9 0.000000 7.372000 -4.735000 -3.027000 # HS \\
+3 1 9 0.000000 7.548000 -4.524000 -4.753000 # HS \\
 
 
  Bonds
