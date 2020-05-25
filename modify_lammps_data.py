@@ -14,11 +14,9 @@ angletype = int(angletype)
 dihedraltype = input("Please enter a dihedraltype to delete:if nothing to do then enter 0\n")
 dihedraltype = int(dihedraltype)
 
-ifn = input("Please enter input file name of LAMMPS data, for example input.dat 0\n")
-ifn = string(ifn)
+ifn = input("Please enter input file name of LAMMPS data, for example input.dat \n")
 
-ofn = input("Please enter output file name of modified LAMMPS data, for example output.dat 0\n")
-ofn = string(ofn)
+ofn = input("Please enter output file name of modified LAMMPS data, for example output.dat \n")
   
 #ifn='deleted-cl-cl-dihedral-6-7.dat'
 #ofn='deleted-cl-cl-dihedral-6-7-8.dat'
