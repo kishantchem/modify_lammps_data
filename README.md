@@ -1,7 +1,8 @@
 # modify_lammps_data
-Deleting bonds, angles dihedrals type and arranging it to create new lammps data file
+##Deleting bonds, angles dihedrals type and arranging it to create new lammps data file
 
-Note1. You can delete only one combination of bond, angle or dihedral type at a time 
+###Note1.
+You can delete only one combination of bond, angle or dihedral type at a time 
 
 Note2. Your input LAMMPS data should start from "Atom" Section, shown below
 
